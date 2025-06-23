@@ -9,8 +9,7 @@ Team members:
 - [@armsp](https://github.com/armsp)
 - [@mnaphatsorn](https://github.com/mnaphatsorn)
 - [@hgrattenthaler](https://github.com/hgrattenthaler)
-- [@akrav4enk0](https://github.com/akrav4enk0) *(contributed to modeling, report writing, and Docker setup)*
-
+- [@akrav4enk0](https://github.com/akrav4enk0) 
 
 # Docker
 
