@@ -5,6 +5,9 @@
 
 This project was completed as part of the course *Big Data for Public Policy* at ETH Zurich.
 
+Grade: 5.5 / 6  
+This project was awarded 5.5 out of 6 (Spring 2023).
+
 Team members:
 - [@armsp](https://github.com/armsp)
 - [@mnaphatsorn](https://github.com/mnaphatsorn)
